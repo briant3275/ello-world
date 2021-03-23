@@ -14,7 +14,9 @@ Ello there, we are here in the place to be
 ### Table of Contents
 
 -[Growth mindset and terminal cheat sheet](https://briant3275.github.io/reading-notes/)
+
 -[reading 2](read2.md)
+
 -[reading 3](read3.md)
 
 these are words
