@@ -1,0 +1,22 @@
+# Javascript notes
+    -Javascript used to dictate interactivity
+    - .js file typl
+    -<'script'> used to load javascript
+    - scripts are typically added before closing body tag
+    - better to put scripts in own files
+    - document.write() writes content into document
+    - statements are instructions and each starts on new line
+    - statements can be organized into code blocks
+    - write comments to explain what code does
+    - multi-line comment /* */
+    - single-line / /
+    - variables are exactly what they say they are, variables
+    - var quantity = x;
+    - string data consists of letters and other characters
+    - booleans are true or false
+    - use backslash before quotation marks to escape
+    - variable name starts with a letter, $ or _. Dont start with a number
+    - dont use - or . in variable name
+    - dont use keywords or reserved words
+    - variable are case sensitive
+    - if name is more than one word capitalize 1st letter of each word starting after the first word ex: firstName. you can also use underscore between words
