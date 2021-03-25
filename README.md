@@ -15,8 +15,8 @@ Ello there, we are here in the place to be
 
 -[Growth mindset and terminal cheat sheet](https://briant3275.github.io/reading-notes/)
 
--[reading 2](read2.md)
+-[reading 2](README2.md)
 
--[reading 3](read3.md)
+-[reading 3](README3.md)
 
 these are words
