@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Repositories"
+		},
+		{
+			"path": "."
+		},
+		{
+			"name": "reading-notes2",
+			"path": "../reading-notes2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Repositories"
+	}
+}
